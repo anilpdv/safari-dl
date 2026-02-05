@@ -1,0 +1,20 @@
+# Binaries & Outputs
+/bin/
+/safari-dl
+*.exe
+*.epub
+*.zip
+*.tar.gz
+
+# Secrets & Credentials
+cookies.txt
+*.cookie
+*.env*
+
+# OS & Temp & Scripts
+.DS_Store
+*.log
+scratch/
+scripts/
+*generate_history*
+*organic_git_history*
