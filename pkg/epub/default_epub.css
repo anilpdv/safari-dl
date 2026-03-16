@@ -1,0 +1,24 @@
+body {
+  margin: 1em;
+  line-height: 1.5;
+  background-color: transparent !important;
+}
+#sbo-rt-content * {
+  text-indent: 0pt !important;
+}
+#sbo-rt-content .bq {
+  margin-right: 1em !important;
+}
+#sbo-rt-content * {
+  word-wrap: break-word !important;
+  word-break: break-word !important;
+}
+#sbo-rt-content table, #sbo-rt-content pre, #sbo-rt-content code {
+  overflow-x: auto !important;
+  white-space: pre-wrap !important;
+  word-break: break-word !important;
+}
+img {
+  max-width: 100% !important;
+  height: auto !important;
+}
